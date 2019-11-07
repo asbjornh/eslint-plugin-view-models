@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-view-models",
+  "version": "0.1.0",
+  "description": "Eslint plugin for 'view-models'",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbjornh/eslint-plugin-view-models.git"
+  },
+  "keywords": [
+    "view-models",
+    "eslint",
+    "plugin"
+  ],
+  "author": "Asbjørn Hegdahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asbjornh/eslint-plugin-view-models/issues"
+  },
+  "homepage": "https://github.com/asbjornh/eslint-plugin-view-models#readme",
+  "peerDependencies": {
+    "view-models": "*"
+  }
+}
